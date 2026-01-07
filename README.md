@@ -1,4 +1,4 @@
-# 📊 C7 Data Analysis & Dashboard Project (Tableau)
+# 📊  Data Analysis & Dashboard Project (Tableau)
 ## 📌 Project Overview
 This project focuses on end-to-end data analysis and interactive dashboard creation using Tableau.
 The objective is to analyze business data, uncover meaningful insights, and present them through clear, decision-driven visualizations that support stakeholder decision-making.
